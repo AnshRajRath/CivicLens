@@ -28,9 +28,8 @@ CivicLens-main/
 ├── backend/
 │   ├── civic_brain.py   ← AI agent pipeline
 │   ├── main.py          ← FastAPI server
-│   ├── test.py          ← API key sanity check
 │   ├── requirements.txt
-│   └── .env             ← you create this (see step 3)
+│   └── .env             ← you change this (see step 3)
 └── frontend/
     ├── src/
     ├── package.json
